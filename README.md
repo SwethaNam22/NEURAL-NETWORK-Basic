@@ -18,6 +18,7 @@ For CIFAR-10, the neural network uses a convolutional neural network (CNN) with 
 -Fully Connected Layer 2 (Output): 10 neurons (one for each class)
 -->Model Training 🖼️
 The model is trained using stochastic gradient descent (SGD). The process includes forward and backward passes through the network, updating the weights at each step.
+
 ------------
 
 Future Improvements 🚀
